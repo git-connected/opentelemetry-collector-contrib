@@ -13,7 +13,7 @@ require (
 	github.com/spf13/cobra v1.2.1 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/tcnksm/ghr v0.14.0
-	go.opentelemetry.io/collector/cmd/checkdoc v0.31.0
+	go.opentelemetry.io/collector/cmd/checkdoc v0.33.0
 	go.opentelemetry.io/collector/cmd/issuegenerator v0.31.0
 	go.opentelemetry.io/collector/cmd/mdatagen v0.31.0
 	go.uber.org/atomic v1.8.0 // indirect
