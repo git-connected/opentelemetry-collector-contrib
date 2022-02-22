@@ -4,8 +4,9 @@ go 1.16
 
 require (
 	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/collector v0.31.0
-	go.opentelemetry.io/collector/model v0.31.0
-	go.uber.org/zap v1.18.1
-	google.golang.org/grpc v1.39.0
+	go.opentelemetry.io/collector v0.45.0
+	go.opentelemetry.io/collector/model v0.45.0
+	go.uber.org/zap v1.21.0
+	google.golang.org/grpc v1.44.0
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
