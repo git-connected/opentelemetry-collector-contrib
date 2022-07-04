@@ -6,7 +6,7 @@ require (
 	code.cloudfoundry.org/clock v1.0.0 // indirect
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/microsoft/ApplicationInsights-Go v0.4.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	go.opentelemetry.io/collector v0.31.0
 	go.opentelemetry.io/collector/model v0.31.0
 	go.uber.org/zap v1.18.1
